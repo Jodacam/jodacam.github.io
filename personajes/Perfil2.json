@@ -1,0 +1,130 @@
+{
+  "personajeid": 2,
+  "mujer": "false",
+  "name":"Andres Morales Rus" ,
+"nodos":[
+
+	{"nombre":"GradoBiologia","felicidad":"-3","tag":"Grado","probabilidadAbrir":100},
+
+	{"nombre":"PracticasProtectoraAnimales","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"VoluntariadoONG","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"ActivistaAnimalista","felicidad":"-3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalActivistaAnimalista","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	
+
+	{"nombre":"MasterCTM","felicidad":"2","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"PracticasGuardabosques","felicidad":"-1","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasGuardabosques","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"OfertaSismologia","felicidad":"1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaSismologia","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":10},
+
+	{"nombre":"TituloSuperiorZoologia","felicidad":"2","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"VoluntariadoPerrera","felicidad":"1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"MasterVeterinaria","felicidad":"3","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"FinalMasterVeterinaria","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+	{"nombre":"TallerCuidadorZoologico","felicidad":"1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalTallerCuidadorZoologico","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"OfertaBiologoMarino","felicidad":"2","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaBiologoMarino","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":40},
+
+
+	{"nombre":"GradoArtesMusicales","felicidad":"5","tag":"Grado","probabilidadAbrir":100},
+
+	{"nombre":"Conservatorio","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"OfertaProfesorMusica1","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaProfesorMusica1","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":80},
+	{"nombre":"CursoMusicoOrquesta","felicidad":"8","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoMusicoOrquesta","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+
+	{"nombre":"Autodidacta","felicidad":"5","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"TocarMetro","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"AutorIndependiente","felicidad":"4","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalAutorIndependiente","felicidad":"100","tag":"FinalOptimo","probabilidadAbrir":100},
+	{"nombre":"ComposicionPropia1","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalComposicionPropia1","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":60},	
+
+	{"nombre":"MasterTeoriaComposicion","felicidad":"3","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"ComposicionPropia2","felicidad":"5","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalComposicionPropia2","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+	{"nombre":"OfertaProfesorMusica2","felicidad":"-3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaProfesorMusica2","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":52},
+
+
+	{"nombre":"GradoComunicacionPeriodismo","felicidad":"-1","tag":"Grado","probabilidadAbrir":100},
+
+	{"nombre":"MasterComunicacionAudiovisual","felicidad":"3","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"CursoProfesorComunicacionAudiovisual","felicidad":"-5","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoProfesorComunicacionAudiovisual","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"CursoTelevision","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoTelevision","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+
+	{"nombre":"PracticasLocucion","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"OfertaDoblador","felicidad":"5","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaDoblador","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":70},
+	{"nombre":"FinalOfertaRadio","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":40},
+
+	{"nombre":"CursoTelevision","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+
+	{"nombre":"PracticasRedactor","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"OfertaRedactorPeriodico","felicidad":"-3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaRedactorPeriodico","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":20},
+	{"nombre":"PeriodismoVideojuegos","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPeriodismoVideojuegos","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+
+
+	{"nombre":"GradoDyDVideojuegos","felicidad":"-6","tag":"Grado","probabilidadAbrir":100},
+
+	{"nombre":"MasterProgramacion","felicidad":"-8","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"CursoDiseno","felicidad":"1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"CursoArte","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"CursoProfesor","felicidad":"-3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoProfesor","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"MasterVR","felicidad":"-7","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"FinalInvestigacion","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"Investigacion","felicidad":"-6","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"TallerDesarrolloMovil","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"Indie","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"PracticasGestion","felicidad":"-9","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasGestion","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+
+	{"nombre":"MasterArteAnimacion","felicidad":"2","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"CursoProgramacion","felicidad":"-4","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoProgramacion","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"PracticasDibujo","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"OfertaConceptArtist","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaConceptArtist","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":40},
+	{"nombre":"CursoComic","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"CursoPintor","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoPintor","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+
+	{"nombre":"Practicas3D","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"TallerRigging","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalTallerRigging","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"CursoAnimacion","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"CursoModelado","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"OfertaModelado","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalOfertaModelado","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":60},
+	{"nombre":"Indie2","felicidad":"4","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"PracticasProcedural","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasProcedural","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"PracticasAnimador","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasAnimador","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+
+	{"nombre":"MasterDiseno","felicidad":"3","tag":"Master","probabilidadAbrir":100},
+	{"nombre":"CursoNarracion","felicidad":"1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"PracticasGuion","felicidad":"-4","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasGuion","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"Periodismo","felicidad":"-3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"CursoGameDesign","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"Reviewer","felicidad":"-5","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalReviewer","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+	{"nombre":"PracticasLevelDesign","felicidad":"2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPracticasLevelDesign","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+	{"nombre":"CursoModelado","felicidad":"-1","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalCursoModelado","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100},
+	{"nombre":"Indie","felicidad":"3","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalIndie","felicidad":"40_80","tag":"FinalSuboptimo","probabilidadAbrir":100},
+	{"nombre":"PeriodismoVideojuegos","felicidad":"-2","tag":"Otro","probabilidadAbrir":100},
+	{"nombre":"FinalPeriodismoVideojuegos","felicidad":"10_30","tag":"FinalMalo","probabilidadAbrir":100}
+
+]}
